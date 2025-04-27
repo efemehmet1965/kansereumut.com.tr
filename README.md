@@ -9,7 +9,7 @@
 
 ## ✨ Anısına
 
-Bu platform, kanserle verdikleri mücadele sonucunda aramızdan ayrılan sevgili **Ali E.** ve **Mithat Ö.**'nün değerli anılarına ithafen kurulmuştur. Onların mücadelesinden ve yaşama bağlılıklarından aldığımız ilhamla, benzer süreçlerden geçen herkese umut olmayı ve destek sağlamayı amaçlıyoruz. Onların mirasını yaşatmak bizim için bir onurdur ve bu platform, onların anısını yaşatmanın bir yoludur.
+Bu platform, kakanserle mücadele ederken yitirdiğim kıymetli büyüklerimin aziz hatıralarına ithaf ederek  kurulmuştur. Onların mücadelesinden ve yaşama bağlılıklarından aldığımız ilhamla, benzer süreçlerden geçen herkese umut olmayı ve destek sağlamayı amaçlıyoruz. Onların mirasını yaşatmak bizim için bir onurdur ve bu platform, onların anısını yaşatmanın bir yoludur.
 
 ## 🚀 Platformun Amacı ve Misyonu
 
