@@ -6,7 +6,6 @@
 
 ---
 
-Bu GitHub deposu, kanser hastaları, hasta yakınları ve bu alanda mücadele eden herkes için bir **dijital destek köprüsü** olmayı hedefleyen **kansereumut.com.tr** web platformunun (varsa) kodlarını barındırır veya projeye dair bilgileri sunar. Platformumuz, kanserle mücadele yolculuğunda **bilgi, güç ve umut** sağlamak amacıyla geliştirilmiştir.
 
 ## ✨ Anısına
 
